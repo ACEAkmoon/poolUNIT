@@ -1,0 +1,5 @@
+Credentials cache: API:4923
+        Principal: akrushin@UNIT.UA
+
+  Issued                Expires               Principal
+Jul 24 15:34:35 2017  Jul 25 01:32:45 2017  krbtgt/UNIT.UA@UNIT.UA

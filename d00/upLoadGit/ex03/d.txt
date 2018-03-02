@@ -1,0 +1,7 @@
+Credentials cache: API:4923
+        Principal: akrushin@UNIT.UA
+
+  Issued                Expires               Principal
+Jul 26 09:42:26 2017  Jul 26 19:42:08 2017  krbtgt/UNIT.UA@UNIT.UA
+Jul 26 11:58:20 2017  Jul 26 19:42:08 2017  ldap/ldap.unit.ua@UNIT.UA
+Jul 26 12:03:39 2017  Jul 26 19:42:08 2017  host/vogsphere-2.unit.ua@UNIT.UA

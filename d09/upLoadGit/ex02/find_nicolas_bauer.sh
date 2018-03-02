@@ -1,0 +1,1 @@
+cat $1 | grep -i "nicolas" | grep -v "nicolasbauer" | grep -i "bauer" |  awk '{print $(NF- 1)}' | grep '\(([0-9]\{3\})\|[0-9]\{3\}\)[ -]\?[0-9]\{3\}[ -]\?[0-9]\{4\}'
